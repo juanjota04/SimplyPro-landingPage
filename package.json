@@ -1,0 +1,24 @@
+{
+  "name": "simplypro-landingpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "request": "no-cors",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanjota04/SimplyPro-landingPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanjota04/SimplyPro-landingPage/issues"
+  },
+  "homepage": "https://github.com/juanjota04/SimplyPro-landingPage#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
